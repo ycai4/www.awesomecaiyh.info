@@ -1,0 +1,156 @@
+/* project design */
+
+/* footer setting */
+.footer{
+	top:105em;
+}
+
+/*section */
+
+div#frame {
+	position: absolute;
+	top:9em;
+	left:15em;
+	width:63%;
+	height:180%;
+	margin: auto;
+	padding: 0;
+	border:none;
+}
+
+/*breaker line1 */
+hr#wholeseparator {
+	height: 0;
+	width: 100%;
+	color:black;
+	position: absolute;
+	top:12em;
+}
+
+/*PROJECT 1 */
+div#project1 {
+	width: 100%;
+	height:33%;
+	margin: auto;
+	padding: 0;
+	border: none;
+	position: absolute;
+	top:13em;
+
+}
+div#project1 div#image {
+	width: 45%;
+	height:80%;
+	margin: auto;
+	padding: 0;
+	border: none;
+	position: absolute;
+	top:2em;
+	left: 2em;
+
+}
+div#project1 div#text {
+	width:50%;
+	height:100%;
+	margin: auto;
+	padding: 0;
+	border: none;
+	position: absolute;
+	top:0;
+	right: 0;
+}
+
+div#project1 div#text div#circle {
+	width:7em;
+	height:7em;
+	background-color:#1C86EE;
+	border-radius: 50%;
+	position: absolute;
+	top:2em;
+	left:2em;
+}
+
+/* project 2*/
+div#project2 {
+	width: 100%;
+	height:33%;
+	margin: auto;
+	padding: 0;
+	border: none;
+	position: absolute;
+	top:41.3em;
+
+}
+div#project2 div#image {
+	width: 45%;
+	height:80%;
+	margin: auto;
+	padding: 0;
+	border: none;
+	position: absolute;
+	top:2em;
+	left: 2em;
+
+}
+div#project2 div#text {
+	width:50%;
+	height:100%;
+	margin: auto;
+	padding: 0;
+	border: none;
+	position: absolute;
+	top:0;
+	right: 0;
+}
+
+div#project2 div#text div#circle {
+	width:7em;
+	height:7em;
+	background-color:#1C86EE;
+	border-radius: 50%;
+	position: absolute;
+	top:2em;
+	left:2em;
+}
+/* project3 */
+div#project3 {
+	width: 100%;
+	height:33%;
+	margin: auto;
+	padding: 0;
+	border: none;
+	position: absolute;
+	top:67.5em;
+
+}
+div#project3 div#image {
+	width: 45%;
+	height:80%;
+	margin: auto;
+	padding: 0;
+	border: none;
+	position: absolute;
+	top:2em;
+	left: 2em;
+
+}
+div#project3 div#text {
+	width:50%;
+	height:100%;
+	margin: auto;
+	padding: 0;
+	border: none;
+	position: absolute;
+	top:0;
+	right: 0;
+}
+
+div#project3 div#text div#circle {
+	width:7em;
+	height:7em;
+	background-color:#1C86EE;
+	border-radius: 50%;
+	position: absolute;
+	top:2em;
+	left:2em;
+}

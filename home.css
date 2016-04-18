@@ -1,0 +1,65 @@
+/*home page css file*/
+
+
+section {
+	width: 84em;
+	height: 500px;
+	margin:0;
+	padding:0;
+	border:none;
+	position: absolute;
+	top:150px;
+}
+/*section img part */
+section div img {
+	width:360px;
+	height: 360px;
+	border:0;
+	border-radius: 50%;
+	position: absolute;
+	top:45px;
+	left: 150px;
+}
+
+/*section text part*/
+
+.sec-text {
+	position: absolute;
+	right:290px;
+	height:500px;
+	width: 40%;
+	margin:none;
+	padding: none;
+	border:none;
+
+}
+
+div.circles {
+	width:8em;
+	height:8em;
+	background-color:lightblue;
+	border-radius: 50%;
+	position: absolute;
+	top:10em;
+}
+
+div.circles:hover {
+	opacity: 0.6;
+}
+
+div.section_summary {
+	position:absolute;
+	bottom: 0px;
+	left:3em;
+
+	width:100%;
+	height:40%;
+	border: none;
+	margin:0;
+}
+
+div.section_summary pre {
+	font-weight: bold;
+	font-size: 1.1em;
+	color:#5B5B5B;
+}
